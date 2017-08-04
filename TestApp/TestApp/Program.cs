@@ -11,6 +11,7 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is a test app");
+            Console.WriteLine("This is a new line of code");
             Console.ReadLine();
         }
     }
