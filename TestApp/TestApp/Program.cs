@@ -10,7 +10,6 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("This is a test app");
             Console.WriteLine("This is a new line of code");
             Console.WriteLine("A third line of code added here");
