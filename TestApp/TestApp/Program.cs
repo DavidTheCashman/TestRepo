@@ -13,6 +13,11 @@ namespace TestApp
             Console.WriteLine("This is a test app");
             Console.WriteLine("This is a new line of code");
             Console.WriteLine("A third line of code added here");
+
+            Console.WriteLine("Feature1");
+
+            Feature1Class x = new Feature1Class();
+            
             Console.ReadLine();
         }
     }
