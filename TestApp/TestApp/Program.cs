@@ -33,18 +33,6 @@ namespace TestApp
             };
             
             Console.WriteLine($"{fClass.Id} :: {fClass.Text}");
-                Console.WriteLine(i);
-            }
-            
-            Console.WriteLine("This is code of Feature 3");
-
-            var fClass = new Feature3Class
-            {
-                Id = 1,
-                Text = "Some Text"
-            };
-            
-            Console.WriteLine($"{fClass.Id} :: {fClass.Text}");
 
             Console.ReadLine();
         }
